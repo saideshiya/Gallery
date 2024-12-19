@@ -30,6 +30,9 @@ Publish the website in the given URL.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Gallery</title>
+
+    
+    
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -86,7 +89,7 @@ Publish the website in the given URL.
         }
     </style>
 </head>
-<body>
+<body bgcolor="plum">
     <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Image Gallery</h1>
     <div class="gallery">
         <img src="c:\Users\admin\Downloads\2c27231c-be92-4a0f-8dfa-5c9f2d660f04.jpeg" alt="Image 1">
@@ -95,8 +98,8 @@ Publish the website in the given URL.
         <img src="c:\Users\admin\OneDrive\Desktop\moon.jpg" alt="Image 4">
         <img src="c:\Users\admin\Downloads\n1.jpeg" alt="Image 5">
         <img src="c:\Users\admin\Downloads\oooo.jpeg" alt="Image 6">
-        <img src="c:\Users\admin\Downloads\nnnnn.jpeg" alt="Image 5">
-        <img src="c:\Users\admin\Downloads\ttt.jpeg" alt="Image 6">
+        <img src="c:\Users\admin\Downloads\nnnnn.jpeg" alt="Image 7">
+        <img src="c:\Users\admin\Downloads\ttt.jpeg" alt="Image 8">
     </div>
 
     <div class="lightbox" id="lightbox">
@@ -118,12 +121,43 @@ Publish the website in the given URL.
         lightbox.addEventListener('click', () => {
             lightbox.classList.remove('active');
         });
+
+        
     </script>
 </body>
 </html>
+
 ```
+
+
+       
+
 # OUTPUT:
 ![Screenshot (100)](https://github.com/user-attachments/assets/f87fd73c-7c9b-46fe-a755-656b076dca3a)
+
+![Screenshot (119)](https://github.com/user-attachments/assets/69b8ac67-f787-4521-b09a-ba8f9aacfcb3)
+
+
+![Screenshot (120)](https://github.com/user-attachments/assets/bc5158fc-803e-49a3-8bbe-7c2a6751bdb9)
+
+
+![Screenshot (121)](https://github.com/user-attachments/assets/36ccf4ec-ddf8-46a0-99b9-00dbb68794af)
+
+
+![Screenshot (122)](https://github.com/user-attachments/assets/3ece5b67-cb17-4d6e-9891-2c7dddad50f3)
+
+
+![Screenshot (123)](https://github.com/user-attachments/assets/412bc3fd-111a-4cbd-843c-a20b98f487e3)
+
+
+![Screenshot (124)](https://github.com/user-attachments/assets/26d16f9e-1824-4104-a303-6c5dd103f7f0)
+
+
+![Screenshot (125)](https://github.com/user-attachments/assets/ddb92a14-1424-4345-a4c5-9a5913e00a19)
+
+
+
+
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
